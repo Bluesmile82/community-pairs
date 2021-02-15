@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import { pair, pairWithMatches } from './pairs';
+import { pair, pairWithMatches } from '../components/pairs';
 
 const devs = [
   'María',
